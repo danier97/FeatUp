@@ -1,1 +1,5 @@
 .env
+build*
+*egg-info*
+*.so
+*pycache*
